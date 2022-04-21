@@ -1,5 +1,5 @@
 # libadwaita-theme-changer
-Theme changer for Libadwaita
+Theme changer for Libadwaita but for /usr/share/theme folders
 
 ## Disclaimer!
 Use this script at your own risk!
