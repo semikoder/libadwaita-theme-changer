@@ -13,7 +13,7 @@ In downloaded theme directory should be ``gtk-4.0`` and ``assets`` directories.
 ## How to use?
 1. Download Python script from git:
 ```
-git clone https://github.com/odziom91/libadwaita-theme-changer.git
+git clone https://github.com/semikoder/libadwaita-theme-changer.git
 ```
 2. Add run permissions to file:
 ```
